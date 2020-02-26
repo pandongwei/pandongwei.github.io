@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>潘东伟</h1>
+      <p><b>硕士</b></p>
+      <p><b>卡尔斯鲁厄理工学院电气工程学院</b></p>
+      <p><b>机电信息技术</b></p>
+      <p><b>邮箱：pandongwei123@gmail.com;15626180685@163.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/pandongwei/pandongwei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
