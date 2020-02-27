@@ -2,10 +2,10 @@
   <tr>
     <td width="75%">
       <h1>潘东伟</h1>
-      <p><b>硕士</b></p>
       <p><b>卡尔斯鲁厄理工学院电气工程学院</b></p>
-      <p><b>机电信息技术</b></p>
-      <p><b>邮箱：pandongwei123@gmail.com;15626180685@163.com</b></p>
+      <p><b>机电信息技术硕士</b></p>
+      <p><b>邮箱：pandongwei123@gmail.com
+       15626180685@163.com</b></p>
     </td>
     <td width="25%">
       <a href="https://gifyu.com/image/7olP"><img src="https://s4.gifyu.com/images/person.png" alt="person.png" border="0" /></a>
