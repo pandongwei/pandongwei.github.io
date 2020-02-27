@@ -22,7 +22,7 @@
 
 ## 项目
 
-[项目成果demo](https://github.com/pandongwei/My-Portfolio）
+[项目成果demo](https://github.com/pandongwei/My-Portfolio)
 
 [详细描述](https://github.com/pandongwei/My-Portfolio/blob/master/CV/cv_pandongwei.pdf)
 
