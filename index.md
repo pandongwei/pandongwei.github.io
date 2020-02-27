@@ -14,12 +14,34 @@
 </table>
 
 
-### 研究方向
+## 研究方向
 
 - 计算机视觉 
 - 深度学习, 机器学习 
 - 视觉SLAM, 机器人
 
+## 项目
+
+### 基于单目图像的复杂交通环境分类(MRT Institute in KIT)
+
+基于小型电动车(低算力嵌入式处理器设备),设计不同的算法,对各种模糊复杂的道路环境进行
+快速准确的分类判断
+
+### Slamdog 机器人平台 2.0(IPR Institute in KIT)
+
+建立一个机器人平台(硬件)以实现各种人机交互(软件)任务
+
+Demo: [远距离单人物鲁棒识别](https://github.com/pandongwei/long-distance-people-recognition)
+
+
+### 单目视频的人体三维重建 (FZI in Karlsruhe)
+
+对state-of-the-art算法进行改进,对人物进行三维重建,解决遮挡问题,以改善人机交互中的安
+全问题
+
+## 个人技能
+
+- Python
 ```markdown
 Syntax highlighted code block
 
@@ -35,7 +57,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
