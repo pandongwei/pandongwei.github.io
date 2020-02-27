@@ -8,7 +8,7 @@
       <p><b>邮箱：pandongwei123@gmail.com;15626180685@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <a href="https://gifyu.com/image/7olP"><img src="https://s4.gifyu.com/images/person.png" alt="person.png" border="0" /></a>
     </td>
   </tr>
 </table>
