@@ -24,7 +24,7 @@
 
 [项目成果demo](https://github.com/pandongwei/My-Portfolio)
 
-[详细描述 个人简历](https://github.com/pandongwei/My-Portfolio/blob/master/CV/cv_pandongwei.pdf)
+[详细描述 个人简历](https://github.com/pandongwei/My-Portfolio/blob/master/CV/cv_pandongwei_28.02.pdf)
 
 ### 基于单目图像的复杂交通环境分类([MRT Institute in KIT](https://www.mrt.kit.edu/))
 
