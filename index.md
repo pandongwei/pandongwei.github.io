@@ -26,21 +26,31 @@
 
 [详细描述 个人简历](https://github.com/pandongwei/My-Portfolio/blob/master/CV/cv_pandongwei.pdf)
 
-### 基于单目图像的复杂交通环境分类([MRT Institute in KIT](https://www.ipr.kit.edu/))
+### 基于单目图像的复杂交通环境分类([MRT Institute in KIT](https://www.mrt.kit.edu/))
 
-基于小型电动车(低算力嵌入式处理器设备),设计不同的算法,对各种模糊复杂的道路环境进行
+内容：基于小型电动车(低算力嵌入式处理器设备),设计不同的算法,对各种模糊复杂的道路环境进行
 快速准确的分类判断
 
-### Slamdog 机器人平台 2.0([IPR Institute in KIT](https://www.mrt.kit.edu/))
+亮点：从制作数据集,算法设计到算法落地,从图像处理,机器学习到深度学习都有涉及到
 
-建立一个机器人平台(硬件)以实现各种人机交互(软件)任务
+### Slamdog 机器人平台 2.0([IPR Institute in KIT](https://www.ipr.kit.edu/))
+
+内容：建立一个机器人平台(硬件)以实现各种人机交互(软件)任务
+
+亮点：经历机器人平台从0到1的整个过程, 并基于平台实现人机交互功能
 
 代码: [远距离单人物鲁棒识别](https://github.com/pandongwei/long-distance-people-recognition)
 
-### 单目视频的人体三维重建 ([FZI in Karlsruhe](https://www.fzi.de/en/about-us/organisation/research-divisions/ispe/))
+## 实习
 
-对state-of-the-art算法进行改进,对人物进行三维重建,解决遮挡问题,以改善人机交互中的安
-全问题
+### Forschungszentrum Informatik in Karlsruhe  ([FZI in Karlsruhe](https://www.fzi.de/en/about-us/organisation/research-divisions/ispe/))
+
+职位：研究助理 日常实习生，ISPE-IDS
+
+项目:基于视频的人体三维重建
+
+内容：对state-of-the-art算法进行改进,提高三维重建的效果,并解决遮挡问题,以改善人机交互中的
+安全问题
 
 
 ## 个人技能
