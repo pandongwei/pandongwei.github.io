@@ -2,9 +2,9 @@
   <tr>
     <td width="75%">
       <h1>潘东伟</h1>
-      <p><b>卡尔斯鲁厄理工学院电气工程学院</b></p>
+      <p><b>卡尔斯鲁厄理工学院,电气工程学院</b></p>
       <p><b>机电信息技术硕士</b></p>
-      <p><b>邮箱：pandongwei123@gmail.com
+      <p><b>邮箱：pandongwei123@gmail.com; 
        15626180685@163.com</b></p>
     </td>
     <td width="25%">
@@ -18,13 +18,13 @@
 
 - 计算机视觉 
 - 深度学习, 机器学习 
-- 视觉SLAM, 机器人
+- 视觉SLAM, 人机交互
 
 ## 项目
 
 [项目成果demo](https://github.com/pandongwei/My-Portfolio)
 
-[详细描述 个人简历](https://github.com/pandongwei/My-Portfolio/blob/master/CV/cv_pandongwei_28.02.pdf)
+[个人简历](https://github.com/pandongwei/My-Portfolio/blob/master/CV/cv_pandongwei_28.02.pdf)
 
 ### 基于单目图像的复杂交通环境分类([MRT Institute in KIT](https://www.mrt.kit.edu/))
 
